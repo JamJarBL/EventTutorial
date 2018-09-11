@@ -1,5 +1,4 @@
 # Eventing Guide - Introduction
----
 To effectively follow along with the guide, the following addons are highly recomended but they are in no way required.
 
 ---
