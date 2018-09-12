@@ -1,5 +1,6 @@
 # Eventing Guide - Introduction
-To effectively follow along with the guide, the following addons are highly recomended but they are in no way required.
+To effectively follow along with the guide, the following addons are highly recomended but they are in no way required. These can be downloaded from either the links provided below or from the Addons folder in the repository.<br>
+To continue you can head onto the [**Wiki page**"https://github.com/JamJarBL/EventTutorial/wiki"]
 
 ---
 ### Support_EventScript
